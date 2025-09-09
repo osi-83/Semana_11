@@ -1,8 +1,7 @@
-package exercicio.com.br.semana_10.controller;
+package exercicio.com.br.semana_11.controller;
 
-import exercicio.com.br.semana_10.entity.Organizacao;
-import exercicio.com.br.semana_10.repository.OrganizacaoRepository;
-import exercicio.com.br.semana_10.service.OrganizacaoService;
+import exercicio.com.br.semana_11.entity.Organizacao;
+import exercicio.com.br.semana_11.service.OrganizacaoService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

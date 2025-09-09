@@ -1,7 +1,7 @@
-package exercicio.com.br.semana_10.service;
+package exercicio.com.br.semana_11.service;
 
-import exercicio.com.br.semana_10.entity.Organizacao;
-import exercicio.com.br.semana_10.repository.OrganizacaoRepository;
+import exercicio.com.br.semana_11.entity.Organizacao;
+import exercicio.com.br.semana_11.repository.OrganizacaoRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;

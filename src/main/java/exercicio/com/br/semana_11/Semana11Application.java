@@ -1,13 +1,13 @@
-package exercicio.com.br.semana_10;
+package exercicio.com.br.semana_11;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Semana10Application {
+public class Semana11Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Semana10Application.class, args);
+        SpringApplication.run(Semana11Application.class, args);
     }
 
 }

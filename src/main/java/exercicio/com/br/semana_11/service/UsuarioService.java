@@ -1,8 +1,7 @@
-package exercicio.com.br.semana_10.service;
+package exercicio.com.br.semana_11.service;
 
-import exercicio.com.br.semana_10.entity.Usuario;
-import exercicio.com.br.semana_10.repository.UsuarioRepository;
-import org.apache.coyote.Response;
+import exercicio.com.br.semana_11.entity.Usuario;
+import exercicio.com.br.semana_11.repository.UsuarioRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

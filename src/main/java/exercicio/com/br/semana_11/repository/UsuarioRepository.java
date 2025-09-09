@@ -1,6 +1,6 @@
-package exercicio.com.br.semana_10.repository;
+package exercicio.com.br.semana_11.repository;
 
-import exercicio.com.br.semana_10.entity.Usuario;
+import exercicio.com.br.semana_11.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

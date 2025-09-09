@@ -1,4 +1,4 @@
-package exercicio.com.br.semana_10.entity;
+package exercicio.com.br.semana_11.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

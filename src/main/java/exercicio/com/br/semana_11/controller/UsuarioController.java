@@ -1,7 +1,7 @@
-package exercicio.com.br.semana_10.controller;
+package exercicio.com.br.semana_11.controller;
 
-import exercicio.com.br.semana_10.entity.Usuario;
-import exercicio.com.br.semana_10.service.UsuarioService;
+import exercicio.com.br.semana_11.entity.Usuario;
+import exercicio.com.br.semana_11.service.UsuarioService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
